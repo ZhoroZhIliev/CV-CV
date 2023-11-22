@@ -1,0 +1,71 @@
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  margin: 0;
+  padding: 0;
+}
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  background-color: #f4f4f4;
+  color: #333;
+  margin: 20px;
+}
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+}
+h1 {
+  font-size: 2em;
+  margin-bottom: 10px;
+}
+h2 {
+  font-size: 1.5em;
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+h3 {
+  font-size: 1.2em;
+  margin-top: 15px;
+  margin-bottom: 5px;
+}
+h4 {
+  font-size: 1.1em;
+  margin-top: 15px;
+  margin-bottom: 5px;
+}
+p {
+  margin-bottom: 10px;
+}
+div {
+  margin-bottom: 20px;
+  padding: 15px;
+  background-color: rgba(185, 183, 145, 0.662);
+  border-radius: 5px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+a {
+  color: #007bff;
+}
+a:hover {
+  text-decoration: underline;
+}
+#profile-photo {
+    position: absolute;
+    top: 20px; 
+    right: 20px; 
+    width: 200px; 
+    height: auto; 
+    border-radius: 50%; 
+    border: 2px solid #fff; 
+  }
+  
+  
+  
+  
+  
